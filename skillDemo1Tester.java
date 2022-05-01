@@ -8,7 +8,7 @@ public class skillDemo1Tester {
     public void maxIntTest(){
         int[] arr = {1,4,6,0};
         int maxInt= skillDemo1.maxInt(arr);
-        assertEquals(0, maxInt);
+        assertEquals(6, maxInt);
 
     }
 }
