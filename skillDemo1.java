@@ -11,6 +11,7 @@ public class skillDemo1{
         }
 
         System.out.println("my name is moises");
+        System.out.println("I am using git commands");
         return max;
     }        
 }
