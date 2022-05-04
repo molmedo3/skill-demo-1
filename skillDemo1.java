@@ -9,6 +9,8 @@ public class skillDemo1{
             }
             System.out.println("hi");
         }
+
+        System.out.println("my name is moises");
         return max;
     }        
 }
