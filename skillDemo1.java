@@ -7,6 +7,7 @@ public class skillDemo1{
             if (max < arr[i]){
                 max = arr[i];
             }
+            System.out.println("hi");
         }
         return max;
     }        
